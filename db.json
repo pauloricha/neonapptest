@@ -1,5 +1,5 @@
 {
-  "contacts": [
+  "getContacts": [
     {
 		"id": 1,
 		"nome": "Harry Potter",
