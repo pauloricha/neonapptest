@@ -1,7 +1,20 @@
-{
-	"profile" : {
-	  "nome": "Paulo George",
-	  "email": "paulo.richa@hotmail.com",
-	  "token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
+[
+  {
+	"id": 1,
+	"nome": "Paulo George",
+	"email": "paulo.richa@hotmail.com",
+	"token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
+  },
+  {
+	"id": 2,
+	"nome": "Paulo George",
+	"email": "paulo.richa@hotmail.com",
+	"token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
+  },
+  {
+	"id": 3,
+	"nome": "Paulo George",
+	"email": "paulo.richa@hotmail.com",
+	"token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
   }
-}
+]
