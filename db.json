@@ -1,20 +1,37 @@
-[
-  {
-	"id": 1,
-	"nome": "Paulo George",
-	"email": "paulo.richa@hotmail.com",
-	"token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
-  },
-  {
-	"id": 2,
-	"nome": "Paulo George",
-	"email": "paulo.richa@hotmail.com",
-	"token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
-  },
-  {
-	"id": 3,
-	"nome": "Paulo George",
-	"email": "paulo.richa@hotmail.com",
-	"token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
+{
+  "profiles": [
+    {
+		"id": 1,
+		"nome": "Paulo George",
+		"email": "paulo.richa@hotmail.com",
+		"token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
+	  },
+	  {
+		"id": 2,
+		"nome": "Paulo George",
+		"email": "paulo.richa@hotmail.com",
+		"token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
+	  },
+	  {
+		"id": 3,
+		"nome": "Paulo George",
+		"email": "paulo.richa@hotmail.com",
+		"token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
+	  }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
