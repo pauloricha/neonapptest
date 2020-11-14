@@ -4,28 +4,19 @@
 		"id": 1,
 		"nome": "Harry Potter",
 		"email": "harry.potter@hotmail.com",
-	    	"telefone": "1198761234",
-	    	"token" : "",
-		"valor": "",
-	    	"data": ""
+	    	"telefone": "1198761234"
 	  },
 	  {
 		"id": 2,
 		"nome": "Jon Snow",
 		"email": "jon.snow@hotmail.com",
-		"telefone": "1198761234",
-		"token" : "",
-		"valor": "",
-	    	"data": ""	  
+		"telefone": "1198761234"  
 	  },
 	  {
 		"id": 3,
 		"nome": "Chandler Bing",
 		"email": "chandler.bing@hotmail.com",
-		"telefone": "1198761234",
-		"token" : "",
-		"valor": "",
-	    	"data": ""
+		"telefone": "1198761234"
 	  }
   ],
 	"generateToken": {
