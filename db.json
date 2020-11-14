@@ -1,26 +1,34 @@
 {
-  "profiles": [
+  "contacts": [
     {
 		"id": 1,
-		"nome": "Paulo George",
-		"email": "paulo.richa@hotmail.com",
-		"token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
+		"nome": "Harry Potter",
+		"email": "harry.potter@hotmail.com",
+	    	"telefone": "1198761234",
+	    	"token" : "",
+		"valor": "",
+	    	"data": ""
 	  },
 	  {
 		"id": 2,
-		"nome": "Paulo George",
-		"email": "paulo.richa@hotmail.com",
-		"token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
+		"nome": "Jon Snow",
+		"email": "jon.snow@hotmail.com",
+		"telefone": "1198761234",
+		"token" : "",
+		"valor": "",
+	    	"data": ""	  
 	  },
 	  {
 		"id": 3,
-		"nome": "Paulo George",
-		"email": "paulo.richa@hotmail.com",
-		"token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
+		"nome": "Chandler Bing",
+		"email": "chandler.bing@hotmail.com",
+		"telefone": "1198761234",
+		"token" : "",
+		"valor": "",
+	    	"data": ""
 	  }
   ],
 	"generateToken": {
-    		"id": 1,
 		"nome": "Paulo George",
 		"email": "paulo.richa@hotmail.com",
 		"token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
