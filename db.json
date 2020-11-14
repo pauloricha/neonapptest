@@ -19,7 +19,7 @@
 		"token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
 	  }
   ],
-	"profile": {
+	"generateToken": {
     		"id": 1,
 		"nome": "Paulo George",
 		"email": "paulo.richa@hotmail.com",
