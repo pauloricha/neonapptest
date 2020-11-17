@@ -10,18 +10,18 @@
 		"id": 2,
 		"nome": "Jon Snow",
 		"email": "jon.snow@hotmail.com",
-		"telefone": "1198761234"  
+		"telefone": "1197646482"  
 	  },
 	  {
 		"id": 3,
 		"nome": "Chandler Bing",
 		"email": "chandler.bing@hotmail.com",
-		"telefone": "1198761234"
+		"telefone": "1198712234"
 	  }
   ],
 	"generateToken": {
-		"nome": "Paulo George",
-		"email": "paulo.richa@hotmail.com",
+		"nome": "Coringa",
+		"email": "coringa@hotmail.com",
 		"token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
   }
 	
