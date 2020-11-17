@@ -2,25 +2,25 @@
   "getContacts": [
     {
 		"id": 1,
-		"nome": "Harry Potter",
+		"name": "Harry Potter",
 		"email": "harry.potter@hotmail.com",
-	    	"telefone": "1198761234"
+	    	"phone": "1198761234"
 	  },
 	  {
 		"id": 2,
-		"nome": "Jon Snow",
+		"name": "Jon Snow",
 		"email": "jon.snow@hotmail.com",
-		"telefone": "1197646482"  
+		"phone": "1197646482"  
 	  },
 	  {
 		"id": 3,
-		"nome": "Chandler Bing",
+		"name": "Chandler Bing",
 		"email": "chandler.bing@hotmail.com",
-		"telefone": "1198712234"
+		"phone": "1198712234"
 	  }
   ],
 	"getProfile": {
-		"nome": "Coringa",
+		"name": "Coringa",
 		"email": "coringa@hotmail.com",
 		"token": "1d40d305-c836-43a2-b4db-acc56bcc1393" 
   }
